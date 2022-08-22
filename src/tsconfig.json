@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "nodenext",
+    "rootDir": ".",
+    "noEmit": true,
+    "target": "esnext",
+    "sourceMap": false,
+    "newLine": "LF",
+    "declaration": true,
+    "noImplicitOverride": true,
+    "esModuleInterop": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es5",
+      "es6",
+      "esnext"
+    ],
+    "types": [
+    ]
+  }
+}
