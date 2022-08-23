@@ -1,5 +1,5 @@
 markdown/
 tsdoc-metadata.json
-tsdoc/
+input/
 .idea/
 *.iml
